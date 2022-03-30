@@ -1,0 +1,53 @@
+=============== Sep 21, 2018 (CEST) ===============
+05:08:03.469449 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:08:03.480120 db@open opening
+05:08:03.481589 version@stat F·[] S·0B[] Sc·[]
+05:08:03.488952 db@janitor F·2 G·0
+05:08:03.489051 db@open done T·8.860859ms
+=============== Sep 21, 2018 (CEST) ===============
+05:09:03.531945 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:09:03.532682 version@stat F·[] S·0B[] Sc·[]
+05:09:03.532722 db@open opening
+05:09:03.532878 journal@recovery F·1
+05:09:03.533595 journal@recovery recovering @1
+05:09:03.537612 version@stat F·[] S·0B[] Sc·[]
+05:09:03.556260 db@janitor F·2 G·0
+05:09:03.556318 db@open done T·23.567864ms
+=============== Sep 21, 2018 (CEST) ===============
+05:11:21.920907 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:11:21.921400 version@stat F·[] S·0B[] Sc·[]
+05:11:21.921437 db@open opening
+05:11:21.921569 journal@recovery F·1
+05:11:21.922303 journal@recovery recovering @2
+05:11:21.924238 version@stat F·[] S·0B[] Sc·[]
+05:11:21.934875 db@janitor F·2 G·0
+05:11:21.934962 db@open done T·13.50187ms
+=============== Sep 21, 2018 (CEST) ===============
+05:15:57.928077 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:15:57.928774 version@stat F·[] S·0B[] Sc·[]
+05:15:57.928810 db@open opening
+05:15:57.928937 journal@recovery F·1
+05:15:57.929619 journal@recovery recovering @4
+05:15:57.931325 memdb@flush created L0@6 N·1 S·419B "car.info,v1":"car.info,v1"
+05:15:57.934472 version@stat F·[1] S·419B[419B] Sc·[0.25]
+05:15:57.949576 db@janitor F·3 G·0
+05:15:57.949651 db@open done T·20.816596ms
+=============== Sep 21, 2018 (CEST) ===============
+05:18:20.450938 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:18:20.451719 version@stat F·[1] S·419B[419B] Sc·[0.25]
+05:18:20.451752 db@open opening
+05:18:20.451886 journal@recovery F·1
+05:18:20.452689 journal@recovery recovering @7
+05:18:20.454724 version@stat F·[1] S·419B[419B] Sc·[0.25]
+05:18:20.465718 db@janitor F·3 G·0
+05:18:20.465787 db@open done T·14.012984ms
+=============== Sep 21, 2018 (CEST) ===============
+05:18:44.464190 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:18:44.464939 version@stat F·[1] S·419B[419B] Sc·[0.25]
+05:18:44.464986 db@open opening
+05:18:44.465157 journal@recovery F·1
+05:18:44.465788 journal@recovery recovering @9
+05:18:44.467426 memdb@flush created L0@11 N·1 S·397B "sco..nfo,v3":"sco..nfo,v3"
+05:18:44.470887 version@stat F·[2] S·816B[816B] Sc·[0.50]
+05:18:44.485679 db@janitor F·4 G·0
+05:18:44.485793 db@open done T·20.775264ms
